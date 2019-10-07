@@ -2,8 +2,8 @@ import scala.util.Random
 
 object RandomFeedback extends App {
 
-  val s = Set("Akilesh", "Lokesh", "Joshi", "Yugandh", "Kamal", "Manju", "Daniel", "Dinesh")
-  val sample = 2
+  val s = Set("Emp_10001", "Emp_20002", "Emp_30003", "Emp_40004", "Emp_50005", "Emp_60006", "Emp_70007", "Emp_80008")
+  val sample = 3
 
   def --() = print(s"\n ---------------------")
 
