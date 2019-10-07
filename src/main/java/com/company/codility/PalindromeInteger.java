@@ -1,3 +1,5 @@
+package com.company.codility;
+
 public class PalindromeInteger {
 
     private static boolean isPalindrome(int n) {

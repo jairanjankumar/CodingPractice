@@ -1,3 +1,5 @@
+package com.company.codility;
+
 public class PalindromeString {
 
     private static boolean isPalRec(String str, int s, int e) {
